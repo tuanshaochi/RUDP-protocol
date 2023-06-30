@@ -17,10 +17,13 @@ Go-Back-N发送端：python Sender.py -f <file name>
 
 测试：python TestHarness.py -s Sender.py -r Receiver.py
 
+<br>
 
 ## 2.有传输字符文件和二进制文件。添加-b即可传输图片和视频。
 
 checksum校验函数在遇到bina模式时需要重写
 
+
+<br>
 
 ## 3.对于GBN和选择重传，使用丢包测试通过。自己编写的失序、重复均通过。
