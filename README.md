@@ -1,5 +1,5 @@
 # RUDP-protocol
-A stimulation of transfer protocal
+A stimulation of transfer protocal.Go-Back-n and Selective Repeat.
 
 <br>
 
